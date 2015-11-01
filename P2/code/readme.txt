@@ -1,0 +1,1 @@
+Input in standard form and the routine can generate the correct output.
